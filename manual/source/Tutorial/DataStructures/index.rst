@@ -35,7 +35,7 @@ Another strong side of SeqAn are its generic string indices. You can think “su
 
 In this section you find tutorials addressing the most common of SeqAn's data structures.
 
-The tutorials under :ref:`tutorial-datastructures-sequences` will introduce you to alphabets, sequence containers, iterators and various kinds of string sets, among them also comrpessed, reference based representations.
+The tutorials under :ref:`tutorial-datastructures-sequences` will introduce you to alphabets, sequence containers, iterators and various kinds of string sets, among them also compressed, reference based representations.
 The tutorials under :ref:`tutorial-datastructures-indices` will introduce you to the interfaces and implementations of SeqAn's string and q-gram indices and the corresponding interators.
 
 The tutorials under :ref:`tutorial-datastructures-alignment-alignment-gaps` will introduce you to how SeqAn implements alignment objects (e.g. gaps in sequences).
