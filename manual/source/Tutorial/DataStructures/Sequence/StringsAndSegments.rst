@@ -615,7 +615,7 @@ Assignment 9
      Review
 
    Objective
-     Take the solution from the workshop assignment above and change it to use Segments for building the genome fragment.
+     Take the solution from Assignment 2 above and change it to use Segments for building the genome fragment.
 
    Hints
      Note that because ``printAlign`` uses templates, you don't have to change the function even though the type of ``genomeFragment`` is different.
